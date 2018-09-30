@@ -1,0 +1,9 @@
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaLogicaNegocio\bin\Release\CapaLogicaNegocio.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaLogicaNegocio\bin\Release\CapaLogicaNegocio.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaLogicaNegocio\bin\Release\CapaDatos.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaLogicaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.csprojAssemblyReference.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.pdb

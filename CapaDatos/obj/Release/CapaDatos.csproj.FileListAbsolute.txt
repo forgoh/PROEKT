@@ -1,0 +1,6 @@
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\obj\Release\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\obj\Release\CapaDatos.pdb

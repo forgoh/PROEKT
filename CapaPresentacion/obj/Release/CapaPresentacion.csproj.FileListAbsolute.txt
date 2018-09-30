@@ -1,0 +1,47 @@
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Release\CapaPresentacion.exe.config
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Release\CapaPresentacion.exe
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Release\CapaPresentacion.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Release\CapaDatos.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Release\CapaLogicaNegocio.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Release\CapaDatos.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Release\CapaLogicaNegocio.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormClientes.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormCompras.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormPrincipal.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormLogin.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormProductos.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormProveedores.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormReportes.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormVenta.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CopyComplete
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.exe
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.pdb
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormLogin.resources
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.exe
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.pdb
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\bin\Release\CapaPresentacion.exe.config
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\bin\Release\CapaPresentacion.exe
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\bin\Release\CapaPresentacion.pdb
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\bin\Release\CapaDatos.dll
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\bin\Release\CapaLogicaNegocio.dll
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\bin\Release\CapaDatos.pdb
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\bin\Release\CapaLogicaNegocio.pdb
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CopyComplete
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormZ2.resources
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormZ4.resources
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormContent.resources
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormZ1.resources
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormJ.resources
+C:\Users\Senior\Desktop\334298234i\NCapas\CapaPresentacion\obj\Release\CapaPresentacion.FormZ3.resources

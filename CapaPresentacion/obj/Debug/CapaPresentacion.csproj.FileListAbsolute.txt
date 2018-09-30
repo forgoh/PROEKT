@@ -1,0 +1,81 @@
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\NCapas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\TUT\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\TUT\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\TUT\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\TUT\NCapas\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\TUT\NCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+E:\TUT\NCapas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\TUT\NCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormCompras.resources
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormProductos.resources
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormProveedores.resources
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormReportes.resources
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormVenta.resources
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\TUT\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\TUT\otros\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\TUT\otros\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\TUT\otros\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\TUT\otros\NCapas\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\TUT\otros\NCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+E:\TUT\otros\NCapas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\TUT\otros\NCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormCompras.resources
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormProductos.resources
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormProveedores.resources
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormReportes.resources
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormVenta.resources
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\TUT\otros\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Programacion\TUTORIALS\PROYECTOS\App3Capas\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Programacion\TUTORIALS\PROYECTOS\App3Capas\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Programacion\TUTORIALS\PROYECTOS\App3Capas\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormCompras.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormProductos.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormProveedores.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormReportes.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FormVenta.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

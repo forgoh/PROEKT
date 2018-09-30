@@ -1,0 +1,21 @@
+E:\TUT\PROYECTOS\NCapas\CapaDatos\bin\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\NCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\TUT\PROYECTOS\NCapas\CapaDatos\obj\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\NCapas\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\TUT\PROYECTOS\NCapas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\TUT\NCapas\CapaDatos\bin\Debug\CapaDatos.dll
+E:\TUT\NCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\TUT\NCapas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\TUT\NCapas\CapaDatos\obj\Debug\CapaDatos.dll
+E:\TUT\NCapas\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\TUT\otros\NCapas\CapaDatos\bin\Debug\CapaDatos.dll
+E:\TUT\otros\NCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\TUT\otros\NCapas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\TUT\otros\NCapas\CapaDatos\obj\Debug\CapaDatos.dll
+E:\TUT\otros\NCapas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Senior\Desktop\PRIVILEGIOS LOGIN VD03\NCapas\CapaDatos\obj\Debug\CapaDatos.pdb
